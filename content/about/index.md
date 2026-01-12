@@ -1,8 +1,8 @@
 ---
-title: About Homer
+title: About Mike's Hobbies
 description: ""
 omit_header_text: false
-featured_image: images/shiva_moon_landscape-2.jpg
+featured_image: images/shiva_moon_landscape.jpg
 type: page
 summary:  "Ashtanga, pranayama, Sanskrit, meditation, Georgetown Kentucky.  Homer White"
 ---
@@ -12,6 +12,13 @@ summary:  "Ashtanga, pranayama, Sanskrit, meditation, Georgetown Kentucky.  Home
     <img src="/images/Homer_MPC.jpeg" class="br-100 mw5">
     <figcaption class="tc mw5 center">
     Hello, I'm Homer White!
+    </figcaption>
+</figure>
+
+<figure class="center mw5 pb3">
+    <img src="/images/golfcart-image.jpg" class="br-100 mw5">
+    <figcaption class= "tc mw5 center">
+    Black Golf Cart - BRAND NEW - 2017 - Electric - $2700
     </figcaption>
 </figure>
 
